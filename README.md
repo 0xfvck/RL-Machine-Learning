@@ -1,6 +1,6 @@
 # RL-Machine-Learning
 
-Inteligencia artificial avanzada que recolecta todo tipo de información del juego y va entrenando por sí sola, el código es totalmente automático, es decir al cerrar el programa automáticamente escribirá lo que ha aprendido en un replay_loader.py, este código está adaptado para cualquier tipo de juego y cualquier tipo de instancia modificada dentro de él.
+Inteligencia artificial avanzada que recolecta todo tipo de información del juego y va entrenando por sí sola, el código es totalmente automático, es decir al cerrar el programa automáticamente escribirá lo que ha aprendido en un replay_loader.py, este código está adaptado para cualquier tipo de modo de juego y cualquier tipo de instancia modificada dentro de él.
 ## Cómo usarlo
 
 -Instala las dependencias con pip install -r requirements.txt.
